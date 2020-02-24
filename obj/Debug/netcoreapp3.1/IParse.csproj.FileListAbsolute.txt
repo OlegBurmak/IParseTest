@@ -1,0 +1,137 @@
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\appsettings.json
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\IParse.exe
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\IParse.deps.json
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\IParse.runtimeconfig.json
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\IParse.runtimeconfig.dev.json
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\IParse.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\IParse.pdb
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\IParse.Views.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\IParse.Views.pdb
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.csprojAssemblyReference.cache
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\staticwebassets\IParse.StaticWebAssets.Manifest.cache
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\staticwebassets\IParse.StaticWebAssets.xml
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.MvcApplicationPartsAssemblyInfo.cache
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.RazorAssemblyInfo.cache
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.RazorAssemblyInfo.cs
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.AssemblyInfoInputs.cache
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.AssemblyInfo.cs
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.TagHelpers.input.cache
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.TagHelpers.output.cache
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.RazorCoreGenerate.cache
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.RazorTargetAssemblyInfo.cache
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.RazorTargetAssemblyInfo.cs
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.Views.pdb
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.dll
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.pdb
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\IParse.csproj.CopyComplete
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NavBarSummary.cshtml.g.cs
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HomeSliderSummary.cshtml.g.cs
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\SharpProjects\IParse\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ClientCarouselSummary.cshtml.g.cs
+D:\SharpProjects\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FeaturesItemSummary.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\appsettings.json
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\IParse.exe
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\IParse.deps.json
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\IParse.runtimeconfig.json
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\IParse.runtimeconfig.dev.json
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\IParse.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\IParse.pdb
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\IParse.Views.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\IParse.Views.pdb
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\C#Projects\ASP.NET MVC\IParse\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.csprojAssemblyReference.cache
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\staticwebassets\IParse.StaticWebAssets.Manifest.cache
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\staticwebassets\IParse.StaticWebAssets.xml
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.MvcApplicationPartsAssemblyInfo.cache
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.RazorAssemblyInfo.cache
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.RazorAssemblyInfo.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.AssemblyInfoInputs.cache
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.AssemblyInfo.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.TagHelpers.input.cache
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.TagHelpers.output.cache
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.RazorCoreGenerate.cache
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ClientCarouselSummary.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\FeaturesItemSummary.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\HomeSliderSummary.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\NavBarSummary.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.RazorTargetAssemblyInfo.cache
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.RazorTargetAssemblyInfo.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.Views.pdb
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.csproj.CopyComplete
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.dll
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.pdb
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\DataCounterSummary.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\GuttersItemSummary.cshtml.g.cs
