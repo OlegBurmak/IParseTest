@@ -16,12 +16,20 @@ namespace IParse.Models
                 context.ClientCarousels.AddRange(
                     new ClientCarousel
                     {
-                        Image = "",
-                        CompanyName = "Название отсутствует",
-                        Description = "Описание отсутствует",
-                        ClientName = "Имя отсутствует",
-                        Position = "Должность отсутствует"
-                    }    
+                        Image = "person_1.jpg",
+                        CompanyName = "Astars",
+                        Description = "Удобное решение для быстрого анализа рынка",
+                        ClientName = "Андрей Попов",
+                        Position = "CEO специалист"
+                    }, 
+                    new ClientCarousel
+                    {
+                        Image = "person_2.jpg",
+                        CompanyName = "PathFinder",
+                        Description = "Если нужно качественный мониторинг конкурентов, то этот сервис мастхев",
+                        ClientName = "Александр Вилюсов",
+                        Position = "Game producer"
+                    } 
                 );
                 context.SaveChanges();
             }
