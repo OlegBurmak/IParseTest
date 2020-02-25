@@ -5,9 +5,9 @@
     <div class="container">
         <div class="row no-gutters slider-text align-items-center justify-content-start" data-scrollax-parent="true">
             <div class="col-md-7 ftco-animate">
-                <span class="subheading">@Model.Heading</span>
-                <h1 class="mb-4">@Model.Description</h1>
-                <p><a asp-action="@Model.ButtoAction" class="btn btn-primary px-4 py-3 mt-3">@Model.ButtonName</a></p>
+                <h1 class="mb-4">@Model.Heading</h1>
+                <span class="subheading">@Model.Description</span>
+                <p><a asp-action="@Model.ButtoAction" asp-controller="About" class="btn btn-primary px-4 py-3 mt-3">@Model.ButtonName</a></p>
             </div>
         </div>
     </div>

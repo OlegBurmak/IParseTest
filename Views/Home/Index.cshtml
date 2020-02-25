@@ -1,5 +1,6 @@
 ﻿@model HomeListViewModel
 
+
 @Html.Partial("NavBarSummary")
 <!-- END nav -->
     
@@ -89,50 +90,6 @@
 				</div>
 			</div>
 		</section>
-		
-
-    <section class="ftco-section ftco-consult ftco-no-pt ftco-no-pb" style="background-image: url(images/bg_5.jpg);" data-stellar-background-ratio="0.5">
-    	<div class="overlay"></div>
-    	<div class="container">
-    		<div class="row justify-content-end">
-    			<div class="col-md-6 py-5 px-md-5">
-    				<div class="py-md-5">
-		          <div class="heading-section heading-section-white ftco-animate mb-5">
-		            <h2 class="mb-4">Задать Вопрос</h2>
-		            <p>Если у вас появились какие-то вопросы, заплоните форму и мы ответим вам.</p>
-		          </div>
-				  <div asp-validation-summary="All" class="text-danger"></div>
-		          <form asp-action="RequestQuestion" asp-controller="RequestQuestion" method="post" class="appointment-form ftco-animate">
-		    				<div class="d-md-flex">
-			    				<div class="form-group">
-			    					<input asp-for="FirstName" class="form-control" placeholder="First Name">
-			    				</div>
-			    				<div class="form-group ml-md-4">
-			    					<input asp-for="LastName" class="form-control" placeholder="Last Name">
-			    				</div>
-		    				</div>
-		    				<div class="d-md-flex">
-		    					<div class="form-group">
-			    					<input asp-for="Email" class="form-control" placeholder="Email Address">
-								</div>
-								<div class="form-group ml-md-4">
-									<input asp-for="Phone" class="form-control" placeholder="Phone">
-								</div>
-		    				</div>
-		    				<div class="d-md-flex">
-		    					<div class="form-group">
-			              			<textarea asp-for="Message" cols="30" rows="2" class="form-control" placeholder="Message"></textarea>
-								</div>
-								<div class="form-group ml-md-4">
-									<input type="submit" value="Задать вопрос" class="btn btn-white py-3 px-4">
-								</div>
-		    				</div>
-		    			</form>
-		    		</div>
-    			</div>
-        </div>
-    	</div>
-    </section>
 
 	<section class="ftco-section testimony-section">
       <div class="container">

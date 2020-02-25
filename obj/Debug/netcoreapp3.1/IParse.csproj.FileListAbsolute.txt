@@ -135,3 +135,8 @@ D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.dll
 D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\IParse.pdb
 D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\DataCounterSummary.cshtml.g.cs
 D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\GuttersItemSummary.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\RequestQuestionSummary.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\RequestQuestion.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Contacts\Completed.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\Shared\ContactsDataSummary.cshtml.g.cs
+D:\C#Projects\ASP.NET MVC\IParse\obj\Debug\netcoreapp3.1\Razor\Views\About\AboutUs.cshtml.g.cs

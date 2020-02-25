@@ -1,0 +1,30 @@
+@model RequestQuestion
+
+<div asp-validation-summary="All" class="text-danger"></div>
+    <form asp-action="RequestQuestion" asp-controller="HomeController" method="post" class="appointment-form ftco-animate">
+        <div class="d-md-flex">
+            <div class="form-group">
+                <input asp-for="FirstName" class="form-control" placeholder="First Name">
+            </div>
+            <div class="form-group ml-md-4">
+                <input asp-for="LastName" class="form-control" placeholder="Last Name">
+            </div>
+        </div>
+        <div class="d-md-flex">
+            <div class="form-group">
+                <input asp-for="Email" class="form-control" placeholder="Email Address">
+            </div>
+            <div class="form-group ml-md-4">
+                <input asp-for="Phone" class="form-control" placeholder="Phone">
+            </div>
+        </div>
+        <div class="d-md-flex">
+            <div class="form-group">
+                <textarea asp-for="Message" cols="30" rows="2" class="form-control" placeholder="Message"></textarea>
+            </div>
+            <div class="form-group ml-md-4">
+                <input type="submit" value="Задать вопрос" class="btn btn-white py-3 px-4">
+            </div>
+        </div>
+    </form>
+</div>

@@ -32,6 +32,7 @@ namespace IParse
             services.AddTransient<IDataCounter, FakeDataCounter>();
             services.AddTransient<IGuttersItem, FakeGuttersItem>();
             services.AddTransient<IClientCarouselRepository, EFClientCarouselRepository>();
+            services.AddTransient<IRequestQuestionRepository, EFRequestQuestionRepository>();
             services.AddMvc();
         }
 
@@ -52,6 +53,7 @@ namespace IParse
 
             app.UseEndpoints(endpoints =>
             {
+                
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Home}/{action=Index}/{id?}");

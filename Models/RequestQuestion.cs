@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
 namespace IParse.Models
@@ -14,5 +15,7 @@ namespace IParse.Models
         [Required(ErrorMessage = "Введите номер телефона")]
         public string Phone { get; set; }
         public string Message { get; set; }
+
+        public List<ContactsData> ContactsDatas { get; set; }
     }
 }

@@ -17,14 +17,18 @@ namespace IParse.Controllers
         private IDataCounter dataCounterRepository;
         private IGuttersItem guttersItemRepository;
         private IFeaturesItem featuresItemRepository;
+        private IRequestQuestionRepository requestQuestionRepository;
 
-        public HomeController(IHomeSliderRepository sliderRepo, IFeaturesItem featuresItemRepo, IDataCounter dataCounterRepo, IGuttersItem guttersItemRepo, IClientCarouselRepository clientCarouselRepo)
+        public HomeController(IHomeSliderRepository sliderRepo, IFeaturesItem featuresItemRepo, 
+                IDataCounter dataCounterRepo, IGuttersItem guttersItemRepo, 
+                IClientCarouselRepository clientCarouselRepo, IRequestQuestionRepository requestQuestionRepo)
         {
             sliderRepository = sliderRepo;
             featuresItemRepository = featuresItemRepo;
             dataCounterRepository = dataCounterRepo;
             guttersItemRepository = guttersItemRepo;
             clientCarouselRepository = clientCarouselRepo;
+            requestQuestionRepository = requestQuestionRepo;
         }
 
         public IActionResult Index()
@@ -38,5 +42,28 @@ namespace IParse.Controllers
                 ClientCarousels = clientCarouselRepository.ClientCarousels
             });
         }
+
+        public ViewResult RequestQuestion() => View(new RequestQuestion());
+
+        [HttpPost]
+        public IActionResult RequestQuestion(RequestQuestion requestQuestion)
+        {
+            if(ModelState.IsValid)
+            {
+                requestQuestionRepository.SaveRequestQuestion(requestQuestion);
+                return RedirectToAction(nameof(Completed));
+            }
+            else
+            {
+                return View("Index");
+            }
+        }
+
+        public ViewResult Completed()
+        {
+            return View();
+        }
+
+        
     }
 }
